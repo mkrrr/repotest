@@ -3,7 +3,7 @@
     <remote name="hub" fetch="https://github.com/mkrrr" />
     <default remote="hub" revision="master"/>
 <project path="projects/projectA.git"
-         name="repotest-projectA" />
+         name="repotest-projectA" revision="develop"/>
 <project path="projects/projectB.git"
-         name="repotest-projectB" revision="develop" />
+         name="repotest-projectB" />
 </manifest>
