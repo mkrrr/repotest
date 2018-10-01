@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="hub" fetch="https://github.com/mkrrr" revision="master"/>
-    <default remote="hub" />
+    <remote name="hub" fetch="https://github.com/mkrrr" />
+    <default remote="hub" revision="develop"/>
 <project path="projects/projectA.git"
          name="repotest-projectA" />
 <project path="projects/projectB.git"
